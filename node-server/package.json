@@ -1,0 +1,15 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Simple node server to pull stock info from public API and adds to firebase.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Zotz",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^6.5.0",
+    "request-promise-native": "^1.0.5"
+  }
+}

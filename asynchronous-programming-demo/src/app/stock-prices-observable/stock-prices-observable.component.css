@@ -1,0 +1,15 @@
+table {
+    width: 100%
+}
+
+.stock-symbol {
+    font-weight: bold;
+}
+
+.stock-price-increasing {
+    color: green;
+}
+
+.stock-price-decreasing {
+    color: red;
+}
